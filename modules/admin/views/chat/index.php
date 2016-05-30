@@ -1,0 +1,1 @@
+<?php echo \sintret\chat\ChatRoom::widget([ 'url' => \yii\helpers\Url::to(['/admin/chat/send-chat']), 'userModel'=> \app\models\Usuario::className(), 'userField' => 'avatarImage' ]); ?> 
