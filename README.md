@@ -1,16 +1,26 @@
-Yii 2 Basic Project Template
+Ecuador Compra Ecuador
 ============================
 
-Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-rapidly creating small projects.
+Esta es una plataforma de publicación de productos y/o servicios para interesados en postulaciones.
 
-The template contains the basic features including user login/logout and a contact page.
-It includes all commonly used configurations that would allow you to focus on adding new
-features to your application.
+<p>
+      <strong>Esta aplicación requiere lo siguiente para su instalación</strong>
+      <ul>
+            <li>PHP 5 o mayor</li>
+            <li>Postgres 9 o mayor</li>
+      </ul>
+</p>
 
-[![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-app-basic/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-app-basic)
-[![Total Downloads](https://poser.pugx.org/yiisoft/yii2-app-basic/downloads.png)](https://packagist.org/packages/yiisoft/yii2-app-basic)
-[![Build Status](https://travis-ci.org/yiisoft/yii2-app-basic.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-app-basic)
+<p>
+      <strong>Caracteristicas principales
+      <ul>
+            <li>Administrador de gestion de productos, categorias, empresas</li>
+            <li>Soporte para chat en linea</li>
+            <li>Administrador para los postulantes</li>
+            <li>Pagina principal desde donde se publican los productos</li>
+      </ul>
+</p>
+
 
 DIRECTORY STRUCTURE
 -------------------
@@ -90,8 +100,8 @@ Edit the file `config/db.php` with real data, for example:
 return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=yii2basic',
-    'username' => 'root',
-    'password' => '1234',
+    'username' => '',
+    'password' => '',
     'charset' => 'utf8',
 ];
 ```
