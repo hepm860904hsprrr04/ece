@@ -1,7 +1,7 @@
 Ecuador Compra Ecuador
 ============================
 
-Plataforma de publicación de productos y/o servicios para interesados en postulaciones.
+Plataforma de publicación de productos y/o servicios a traves de internet.
 
 <p>
       <strong>Esta aplicación requiere lo siguiente para su instalación</strong>
